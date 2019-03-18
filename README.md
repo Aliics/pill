@@ -1,5 +1,5 @@
 # pill
-__P__rocess k__IL__ler for __L__inux, for those pesky little processes that 
+**P**rocess k**IL**ler for **L**inux, for those pesky little processes that 
 just love to eat up memory.
 This is basically just an automated `ps aux` and `kill [pid]`, but that's why
 it's useful. :)
@@ -13,4 +13,3 @@ any directory.
 Now this is how you run it. The search will just use `grep` to search the 
 ps aux command output for any pids. Then you'll be walked through the program.
 > pill [process to search for]
-
